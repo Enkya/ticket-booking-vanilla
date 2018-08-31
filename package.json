@@ -1,0 +1,11 @@
+{
+  "name": "ticket-booking",
+  "version": "1.0.0",
+  "description": "This is an open source project for booking tickets of various events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davy AG",
+  "license": "MIT"
+}
